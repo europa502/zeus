@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tf/_retrain_checkpoint"
+all_model_checkpoint_paths: "/tf/_retrain_checkpoint"
